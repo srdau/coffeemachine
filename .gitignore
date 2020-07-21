@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Account and its owner/out/
+/Problems/Account and its owner/out/production/classes/
+/Problems/Initializing an array of characters/out/
+/Problems/Initializing an array of characters/out/production/classes/
